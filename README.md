@@ -13,7 +13,7 @@ This website is mant for anyone interested in learning sorting algorithms
 
 ### How?
 
-A description of what the system will do from an end-user's perspective. Be as complete as necessary to fully explain the system, but do not worry about technical implementation - this will be developed in subsequent work.
+The users choose the sorting algo they want to learn about, and then read about the algorithm, see the code for it, and watch how it works in a clear and easy to follow animation.
 
 ### Scope
 
