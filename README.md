@@ -3,6 +3,8 @@
 ## Project title - Sorting Visualizer
 
 
+Group members: Owen Cozine and Ermias Merine
+
 ### What and why?
 
 I want to build a website that lets you visually see a sorting algorithm in action. This could help a lot of people who are trying to learn about sorting algorithms better understand how they run. This website would allow them to increase or decrease the data that needs to be sorted, and pick what type of sorting algorithm they want to see run.
